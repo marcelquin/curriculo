@@ -24,7 +24,7 @@ header
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    background-image: url(imagem/perfil.jpg);
+    background-image: url(perfil.jpg);
     background-size: cover;
     top: 20px;
     left: 20px;
@@ -118,20 +118,20 @@ section
 
 .fid
 {
-    background-image: url(imagem/FID.jpg);
+    background-image: url(./FID.jpg);
     
 }
 .curso24h
 {
-    background-image: url(imagem/curso24h.jpg);
+    background-image: url(./curso24h.jpg);
 }
 .softblue
 {
-    background-image: url(imagem/softblue.jpg);
+    background-image: url(./softblue.jpg);
 }
 .udemy
 {
-    background-image: url(imagem/udemy.png);
+    background-image: url(udemy.png);
 }
 
 
@@ -164,13 +164,13 @@ section
 
 .fh1
 {
-    background-image: url(./imagem/html.png);
+    background-image: url(./html.png);
 }
 .fh2
 {
-    background-image: url(./imagem/css.png);
+    background-image: url(./css.png);
 }
 .fh3
 {
-    background-image: url(./imagem/java.png);
+    background-image: url(./java.png);
 }
